@@ -1,4 +1,3 @@
-# ML
 ## Tài liệu ghi chép kiến thức về Máy học
 
 Machine Learning là lĩnh vực được chú trọng ngày nay vì nó mang tính cách tân cũng như đem lại năng suất lao động cao cho con người. Đây là các kiến thức về Machine Learning do mình trong quá trình học và tham khảo ở một số course, tài liệu.
